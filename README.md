@@ -1,9 +1,9 @@
 # **Rick and Morty**
 
-<hr/>
+<hr>
 
 ### **523355 : INTRODUCTION TO BLOCKCHAIN TECHNOLOGY**
-
+</hr>
 ### Submitted by
     1.
     2.
