@@ -8,8 +8,8 @@
 <hr>
 
 ### Submitted by
-    1. https://github.com/19church/blockchainAssignment2/labels/B6304249
-    2.
+https://github.com/19church/blockchainAssignment2/labels/B6304249
+
 
 </hr>
 
