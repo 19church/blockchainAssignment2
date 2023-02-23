@@ -1,0 +1,250 @@
+body {
+    background-color:#207c07c6;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+label {
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+}
+.label1 {
+    color:#f28237;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.label2 {
+    color:#47e5f7;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.label3 {
+    color:#f8fd6f;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.label4 {
+    color:#ff7403;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.label5 {
+    color:#fdc840;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.label6 {
+    color:#ffa200;
+    font-family: 'VirtualNote';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv1 {
+    color:#f28237;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv2 {
+    color:#47e5f7;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv3 {
+    color:#f8fd6f;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv4 {
+    color:#ff7403;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv5 {
+    color:#fdc840;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labelv6 {
+    color:#ffa200;
+    font-family: 'FluffyCake';
+    display:block;
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labeltable {
+    color:#64ffff;
+    font-family: 'VirtualNote';
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:32px
+}
+.labeltablecon {
+    color:#eaff64;
+    font-family: 'FluffyCake';
+    margin-bottom:10px;
+    font-weight: bold;
+    font-size:24px
+}
+.labelh1 {
+    color:#64ffff;
+    font-family: 'schwifty';
+    display:block;
+    margin-bottom:10px;
+    margin-top:10px;
+    font-weight: bold;
+    font-size:100px
+}
+input {
+    padding:10px;
+    width: 100%;
+    margin-bottom: 1em;
+}
+button {
+    margin: 2em 0;
+    padding: 1em 4em;
+    display:block;
+    font-size: medium;
+}
+#result {
+    padding:1em;
+    background-color:#fff;
+    margin: 1em 0;
+}
+
+.btn1 {
+    background-color: #fff642c6;
+    color: #f28237;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.btn2 {
+    background-color: #5bc802c6;
+    color: #47e5f7fa;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.btn3 {
+    background-color: #5fffe7c6;
+    color: #f8fd6f;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.btn4 {
+    background-color: #fe61ccc6;
+    color: #ff7403;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.btn5 {
+    background-color: #fb4646ef;
+    color: #fdc840;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.btn6 {
+    background-color: #335205c6;
+    color: #ffa200;
+    font-size: 25px;
+    font-family: 'VirtualNote';
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: #2c7316c6;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid #ffffff;
+    color: white;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #6ba55ac6;
+}
+
+@font-face {
+    font-family: 'VirtualNote';
+    src: url('./font/VirtualNote-owaXA.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FluffyCake';
+    src: url('./font/FluffyCakeRegular-0WAn4.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'schwifty';
+    src: url('./font/get_schwifty.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
